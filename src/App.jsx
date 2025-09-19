@@ -8,7 +8,7 @@ function App() {
     <>
     <main className='mt-10 '>
       <h1 className='text-3xl font-bold mb-10'>Track Your Expense</h1>
-      <div class="expense-tracker">
+      <div className="expense-tracker">
           <ExpenseForm />
           <ExpanseTable/>
         
